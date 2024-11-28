@@ -6,7 +6,7 @@
 Pizza Innovators
 
 ### メンバー
-- **山田 太郎 (Taro Yamada)**: リーダー
+- **山田 太郎 (Taro Yamada)**: リーダー!!
 - **佐藤 花子 (Hanako Sato)**: サブリーダー
 - **鈴木 一郎 (Ichiro Suzuki)**: テクニカルアドバイザ
 - **田中 次郎 (Jiro Tanaka)**: ドキュメント管理
